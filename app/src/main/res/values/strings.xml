@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mini Assignment</string>
+    <string name="error_msg">Something went wrong</string>
+    <string name="no_items_available">No items available</string>
+    <string name="available">Available</string>
+    <string name="accept">Accept</string>
+    <string name="rejected">Rejected</string>
+    <string name="expired">Expired!</string>
+    <string name="auto_reject">Auto reject\u0020</string>
+    <string name="protein_7"># protein (7)</string>
+</resources>

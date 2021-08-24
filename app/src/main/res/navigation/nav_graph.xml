@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/orderPageFragment">
+
+    <fragment
+        android:id="@+id/orderPageFragment"
+        android:name="com.dindinn.miniassignment.ui.order_page.OrderPageFragment"
+        android:label="OrderPageFragment" >
+        <action
+            android:id="@+id/action_orderPageFragment_to_ingredientFragment"
+            app:destination="@id/ingredientFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ingredientFragment"
+        android:name="com.dindinn.miniassignment.ui.ingredient.IngredientFragment"
+        android:label="IngredientFragment" />
+</navigation>

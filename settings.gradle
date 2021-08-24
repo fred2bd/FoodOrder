@@ -1,0 +1,2 @@
+rootProject.name = "Mini Assigment"
+include ':app'
