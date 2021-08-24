@@ -7,8 +7,5 @@ Presentation (for UI logic, with MVVM)
 Unit tests of repository
 
 # Library 
-Okhttp interceptor to mock api 
-Retrofit
-Timber
-Google Truth
-Gson 
+Okhttp interceptor to mock api, Retrofit, Timber, Google Truth, Gson 
+
